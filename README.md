@@ -19,9 +19,6 @@ The main purpose of this project is to develop a basic understanding of the appl
 
 I was able to generate a working bot as the video here shows 
  
- ![working_bot](Images/Initial_Bot_Test.mp4)
- 
- 
 
 https://user-images.githubusercontent.com/105887423/189181800-d08a367a-6411-4f38-9adc-56909f2af6a4.mp4
 
